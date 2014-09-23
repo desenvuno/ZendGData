@@ -4,7 +4,8 @@
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
-        "gdata"
+        "gdata",
+        "zf2"
     ],
     "homepage": "http://packages.zendframework.com/",
     "autoload": {
