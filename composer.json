@@ -19,9 +19,6 @@
             "url": "http://packages.zendframework.com/"
         }
     ],
-    "require": {
-        "php": ">=5.3.3",
-    },
     "require-dev": {
         "phpunit/PHPUnit": "3.7.*"
     },
