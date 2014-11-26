@@ -242,15 +242,15 @@ class HttpClient extends Http\Client
         return $response;
     }
 
-    /**
-     * Return the current connection adapter
-     *
-     * @return \Zend\Http\Client\Adapter|string $adapter
-     */
-    public function getAdapter()
-    {
-        return $this->adapter;
-    }
+//    /**
+//     * Return the current connection adapter
+//     *
+//     * @return \Zend\Http\Client\Adapter|string $adapter
+//     */
+//    public function getAdapter()
+//    {
+//        return $this->adapter;
+//    }
 
    /**
      * Load the connection adapter
